@@ -48,8 +48,9 @@ En tant que major de l'énergie, les performances de Chevron dépendent de varia
 
 ### 1. Cloner le projet
 ```bash
-git clone [https://github.com/](https://github.com/)<ton-pseudo>/cvx-analyse-econometrique.git
+git clone https://github.com/victordnst/cvx-analyse-econometrique.git
 cd cvx-analyse-econometrique
+```
 
 ## 5. Visualisation des résultats
 
