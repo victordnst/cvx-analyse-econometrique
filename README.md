@@ -51,3 +51,6 @@ En tant que major de l'énergie, les performances de Chevron dépendent de varia
 git clone [https://github.com/](https://github.com/)<ton-pseudo>/cvx-analyse-econometrique.git
 cd cvx-analyse-econometrique
 
+## 5. Visualisation des résultats
+
+![Rendements réels vs Prédictions OLS](resultat_modele_cvx.png)
